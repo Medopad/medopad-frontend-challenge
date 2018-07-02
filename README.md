@@ -8,7 +8,7 @@ We would like you to create a simple react app that allows a doctor to visualise
 ## What you'll need
 
 1. You'll need `nodejs` installed
-2. Clone the repo at `github.com/medopad-front-end-challenge`
+2. Clone this repo
 3. `npm install`
 
 ## Instructions
@@ -18,7 +18,7 @@ We would like you to create a simple react app that allows a doctor to visualise
 3. Fetch data from the endpoint `localhost:3000/heartrate`
 4.  Visualise the data in your React app! This should meet the following criteria, but the way you do this is up to you..
     1.  It should have a chart
-    2. You should be able to update these chart(s) by filtering in a useful way(s)
+    2. You should be able to update the chart by filtering in a useful way(s)
     3.  The data should also be shown in a table or a list
 5. When finished, please email your code back to us (don't fork the repo, as then others will be able to see your solution). 
 
