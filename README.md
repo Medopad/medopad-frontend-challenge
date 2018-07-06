@@ -25,7 +25,7 @@ We would like you to create a simple react app that allows a doctor to visualise
 ## The requirements
 
 -   The app fetches data from our API and displays it in the UI
--   The app is built with React. Beyond this, feel free to use any third party libraries or frameworks that you like.
+-   The app is built with React. Beyond this, feel free to use any libraries, frameworks or tools that you like.
 -   Your app is easy to install and run locally
 -   It's beautiful and looks great at all screen sizes. 
 
